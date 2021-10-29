@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="converter_name">Супер Конвертер 1.0</string>
+    <string name="empty_text">…</string>
+    <string name="result">ОШИБКА</string>
+    <string name="hint_text">Данный конвертер позволяет работать только со следующими единицами измерения:\nДлина: метры, дюймы, футы, ярды\nМасса: килограмм, фунт, унция, стон\nОбъём: литр, галлон, кварта, пинта</string>
+    <plurals name="inch_plurals">
+        <item quantity="one">дюйм</item>
+        <item quantity="two">дюйма</item>
+        <item quantity="few">дюйма</item>
+        <item quantity="many">дюймов</item>
+        <item quantity="other">дюймов</item>
+    </plurals>
+    <plurals name="meter_plurals">
+        <item quantity="one">метр</item>
+        <item quantity="two">метра</item>
+        <item quantity="few">метра</item>
+        <item quantity="many">метров</item>
+        <item quantity="other">метров</item>
+    </plurals>
+    <plurals name="ft_plurals">
+        <item quantity="one">фут</item>
+        <item quantity="two">фута</item>
+        <item quantity="few">фута</item>
+        <item quantity="many">футов</item>
+        <item quantity="other">футов</item>
+    </plurals>
+    <plurals name="yard_plurals">
+        <item quantity="one">ярд</item>
+        <item quantity="two">ярда</item>
+        <item quantity="few">ярда</item>
+        <item quantity="many">ярдов</item>
+        <item quantity="other">ярдов</item>
+    </plurals>
+    <plurals name="kilogram_plurals">
+        <item quantity="one">килограмм</item>
+        <item quantity="two">килограмма</item>
+        <item quantity="few">килограмма</item>
+        <item quantity="many">килограммов</item>
+        <item quantity="other">килограммов</item>
+    </plurals>
+    <plurals name="lb_plurals">
+        <item quantity="one">фунт</item>
+        <item quantity="two">фунта</item>
+        <item quantity="few">фунта</item>
+        <item quantity="many">фунтов</item>
+        <item quantity="other">фунтов</item>
+    </plurals>
+    <plurals name="ounce_plurals">
+        <item quantity="one">унция</item>
+        <item quantity="two">унции</item>
+        <item quantity="few">унции</item>
+        <item quantity="many">унций</item>
+        <item quantity="other">унций</item>
+    </plurals>
+    <plurals name="groan_plurals">
+        <item quantity="one">стон</item>
+        <item quantity="two">стона</item>
+        <item quantity="few">стона</item>
+        <item quantity="many">стонов</item>
+        <item quantity="other">стонов</item>
+    </plurals>
+    <plurals name="litre_plurals">
+        <item quantity="one">литр</item>
+        <item quantity="two">литра</item>
+        <item quantity="few">литра</item>
+        <item quantity="many">литров</item>
+        <item quantity="other">литров</item>
+    </plurals>
+    <plurals name="gallon_plurals">
+        <item quantity="one">галлон</item>
+        <item quantity="two">галлона</item>
+        <item quantity="few">галлона</item>
+        <item quantity="many">галлонов</item>
+        <item quantity="other">галлонов</item>
+    </plurals>
+    <plurals name="quatr_plurals">
+        <item quantity="one">кварта</item>
+        <item quantity="two">кварты</item>
+        <item quantity="few">кварты</item>
+        <item quantity="many">квартов</item>
+        <item quantity="other">квартов</item>
+    </plurals>
+    <plurals name="pint_plurals">
+        <item quantity="one">пинта</item>
+        <item quantity="two">пинты</item>
+        <item quantity="few">пинты</item>
+        <item quantity="many">пинт</item>
+        <item quantity="other">пинт</item>
+    </plurals>
+</resources>
